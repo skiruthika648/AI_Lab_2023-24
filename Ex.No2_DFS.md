@@ -34,7 +34,7 @@ dfs(visited, graph, '5')
 ```
 
 ### Output:
-![ai2](https://github.com/skiruthika648/AI_Lab_2023-24/assets/128348968/0698c805-78ef-4dd3-bbb5-171a1d8aad1c)
+![Screenshot 2024-03-03 202529](https://github.com/skiruthika648/AI_Lab_2023-24/assets/128348968/719d51c5-dbff-42a7-ba5b-2459228aed35)
 
 
 
